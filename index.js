@@ -1,6 +1,7 @@
-function takeANumber(num) {
-  array.push(name);
-  return(`Welcome, ${name}. You are number ${array.length} in line.`)
+function takeANumber(array) {
+  var i = 1;
+  i = i + 1;
+  return(`Your ticket number is ${i}.`)
 }
 
 function nowServing(array) {
