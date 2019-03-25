@@ -1,4 +1,4 @@
-function takeANumber(array, name) {
+function takeANumber(num) {
   array.push(name);
   return(`Welcome, ${name}. You are number ${array.length} in line.`)
 }
