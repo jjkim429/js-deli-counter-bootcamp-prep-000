@@ -1,6 +1,8 @@
+var i = 1
+
 function takeANumber(array) {
-  var i = 1;
   i = i + 1;
+  array.push(i)
   return(`Your ticket number is ${i}.`)
 }
 
